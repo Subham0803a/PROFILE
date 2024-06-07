@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently into fullsatck developer<br> <br> <br> 
+🔭 I’m currently a fullsatck developer<br> <br> <br> 
 
 
 # 💻 Tech Stack:
