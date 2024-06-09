@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently a fullsatck developer<br>
-⚡ Currently learning:-React,typescript,node & express  <br> <br> 
+⚡  <br> <br> 
 
 
 # 💻 Tech Stack:
