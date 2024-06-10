@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning typescript,node& Express and nextjs<br> <br> <br> 
+🔭 I’m currently a fullstack devloper <br> <br> <br> 
 
 
 # 💻 Tech Stack:
