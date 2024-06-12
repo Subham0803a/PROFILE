@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Fullstack Devloper 🧑‍💻 <br>Currently learning on :- next js <br>Currently working on :- react , typescript , django , node and express js <br>
+🔭 I am a Fullstack Devloper 🧑‍💻 <br>Currently learning :- next js <br>Currently working on :- react , typescript , django , node and express js <br>
 
 
 # 💻 Tech Stack:
