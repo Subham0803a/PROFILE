@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Fullstack Devloper 🧑‍💻 <br>Currently learning :- next js <br>
+🔭 I am a Fullstack Devloper 🧑‍💻 <br>
 
 
 # 💻 Tech Stack:
